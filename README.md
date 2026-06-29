@@ -16,8 +16,7 @@ Static one-page personal website for GitHub Pages.
     ├── air-quality-pm25.png
     ├── air-quality-shap.png
     ├── la-parola-data-header.png
-    ├── automated-press-review-logo.png
-    └── ADD_CV_PDF_HERE.txt
+    └── automated-press-review-logo.png
 ```
 
 ## Notes
