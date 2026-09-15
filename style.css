@@ -324,6 +324,21 @@ h2 {
   object-fit: contain;
 }
 
+.project-image.chart-panel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: #ffffff;
+}
+
+.project-image.chart-panel img {
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  object-fit: contain;
+}
+
 .project-content {
   padding: 1.5rem;
 }
